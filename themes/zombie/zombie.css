@@ -1,0 +1,91 @@
+body {
+	background: #142948;
+	cursor: url('../../themes/zombie/cursor.png'),default;
+}
+
+.divBackground{
+	background: url('../../themes/zombie/back.jpg') right top no-repeat;
+}
+
+.footer {
+  color: #FFFFFF;
+	background: #000000;
+	border-left: 2px solid #FFFFFF;
+	border-right: 2px solid #FFFFFF;
+	border-top: 2px solid #FFFFFF;
+}
+
+.menu {
+  color: #FFFFFF;
+	background: #000000;
+	border-left: 2px solid #FFFFFF;
+	border-right: 2px solid #FFFFFF;
+	border-bottom: 2px solid #FFFFFF;
+}
+
+.menuItem:hover {
+	text-shadow: 0 0 0.2em #ff0000, 0 0 0.2em #ff0000, 0 0 0.2em #ff0000, 0 0 0.2em #ff0000, 0 0 0.2em #ff0000;
+}
+
+.slot:hover {
+	text-shadow: 0 0 0.2em #ff0000, 0 0 0.2em #ff0000, 0 0 0.2em #ff0000, 0 0 0.2em #ff0000, 0 0 0.2em #ff0000;
+}
+
+.messageWindow {
+	background: #e16767;
+	border: 2px solid #FFFFFF;
+}
+
+.alertWindow {
+	background: #ffd8d8;
+	border: 2px solid #FFFFFF;
+}
+
+.button {
+	border: 1px solid #FFFFFF;
+}
+
+.button:hover {
+	background: #FFFFFF;
+	border-color: #ff0000;
+}
+
+.nextColorImgNone{
+	background:url('../../themes/zombie/sprite.png') -400px -157px;
+}
+
+.nextColorImg1{
+	background:url('../../themes/zombie/sprite.png') 0 0;
+}
+
+.nextColorImg2{
+	background:url('../../themes/zombie/sprite.png') -50px 0;
+}
+
+.nextColorImg3{
+	background:url('../../themes/zombie/sprite.png') -100px 0;
+}
+
+.nextColorImg4{
+	background:url('../../themes/zombie/sprite.png') -150px 0;
+}
+
+.nextColorImg5{
+	background:url('../../themes/zombie/sprite.png') -200px 0;
+}
+
+.nextColorImg6{
+	background:url('../../themes/zombie/sprite.png') -250px 0;
+}
+
+.nextColorImg7{
+	background:url('../../themes/zombie/sprite.png') -300px 0;
+}
+
+.nextColorImg8{
+	background:url('../../themes/zombie/sprite.png') -350px 0;
+}
+
+.nextColorImg9{
+	background:url('../../themes/zombie/sprite.png') -400px 0;
+}

@@ -1,0 +1,83 @@
+body {
+	cursor: url('../../themes/flower/cursor.png'),default;
+	background: url('../../themes/flower/back.jpg') left top repeat;
+}
+
+.footer {
+  color: #FFFFFF;
+}
+
+.menu {
+  color: #FFFFFF;
+}
+
+.menuItem:hover {
+	text-shadow: 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00;
+}
+
+.slot:hover {
+	text-shadow: 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00, 0 0 0.2em #9DFF00;
+}
+
+.messageWindow {
+	background: #D8EAC7;
+	border: 2px solid #506C17;
+}
+
+.alertWindow {
+	background: #D8EAC7;
+	border: 2px solid #FFBBBB;
+}
+
+.button {
+	border: 1px solid #58771A;
+}
+
+.button:hover {
+	background: #EEEEEE;
+	border-color: #555555;
+}
+
+.divBackground{
+	background: url('../../themes/flower/bbackground.png') center center no-repeat;
+}
+
+.nextColorImgNone{
+	background:url('../../themes/flower/sprite.png') -400px -157px;
+}
+
+.nextColorImg1{
+	background:url('../../themes/flower/sprite.png') 0 0;
+}
+
+.nextColorImg2{
+	background:url('../../themes/flower/sprite.png') -50px 0;
+}
+
+.nextColorImg3{
+	background:url('../../themes/flower/sprite.png') -100px 0;
+}
+
+.nextColorImg4{
+	background:url('../../themes/flower/sprite.png') -150px 0;
+}
+
+.nextColorImg5{
+	background:url('../../themes/flower/sprite.png') -200px 0;
+}
+
+.nextColorImg6{
+	background:url('../../themes/flower/sprite.png') -250px 0;
+}
+
+.nextColorImg7{
+	background:url('../../themes/flower/sprite.png') -300px 0;
+}
+
+.nextColorImg8{
+	background:url('../../themes/flower/sprite.png') -350px 0;
+}
+
+.nextColorImg9{
+	background:url('../../themes/flower/sprite.png') -400px 0;
+}
